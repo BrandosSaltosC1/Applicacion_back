@@ -34,3 +34,4 @@ Practica.belongsTo(Alumno, {
     targetId: 'id' //objetivo el id del esquema
 })
 
+
